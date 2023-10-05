@@ -1,0 +1,12 @@
+[
+    {
+        "type": "func_push",
+        "file": "mindustry.png",
+        "name": "mindustry"
+    },
+    {
+        "type": "env_sound",
+        "file": "soundtrack1.mp3",
+        "name": "soundtrack1"
+    }
+]

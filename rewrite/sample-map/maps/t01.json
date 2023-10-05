@@ -1,0 +1,16 @@
+[
+    {
+        "y": -200,
+        "x": -140,
+        "type": "start_pos"
+    },
+    {
+        "y": 0,
+        "x": 0,
+        "h": 100,
+        "w": 100,
+        "properties": {},
+        "costume": 1,
+        "type": "push_generic"
+    }
+]
